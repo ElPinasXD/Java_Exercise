@@ -1,6 +1,3 @@
-Se denomina párrafo o parágrafo a las unidades de texto conformadas por un número finito de oraciones escritas secuencialmente,
-que abordan un mismo tema, en las que puede dividirse un documento cualquiera.
-
-La palabra “párrafo” proviene del griego parágraphos, compuesto por el prefijo para- (“junto a”) y graphos 
-(“escritura” o “letra”). Visto así, un párrafo no es más que el conjunto de escritura que va junta o que se corresponde 
-a una unidad. Si las letras forman palabras, y las palabras forman oraciones, entonces las oraciones forman párrafos.
+El perro corre rápido por el parque mientras los pájaros vuelan en el cielo azul. La naturaleza ofrece un espectáculo 
+maravilloso lleno de vida y movimiento. El viento sopla suavemente entre los árboles, llevando consigo el aroma fresco de 
+la vegetación. Es un día tranquilo y apacible, perfecto para disfrutar al aire libre y conectar con la naturaleza.

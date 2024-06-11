@@ -5,8 +5,8 @@ import java.util.*;
 
 public class Main_5{
         public static void main(String[] args) {
-            File file = new File("\"C:\\Users\\Aprendiz\\Desktop\\2902082\\Exercise_5\\demo\\src\\main\\java\\com\\ejercicio_5\\XD.txt\"");
-    
+            File file = new File("C:\\Users\\Aprendiz\\Desktop\\2902082\\Exercise_5\\demo\\src\\main\\java\\com\\ejercicio_5\\XD.txt");
+
             try {
                 BufferedReader reader = new BufferedReader(new FileReader(file));
                 StringBuilder content = new StringBuilder();
